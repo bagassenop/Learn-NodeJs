@@ -1,0 +1,1 @@
+Hi, this is first data for newFile.txtHi, this is first data for newFile.txt
