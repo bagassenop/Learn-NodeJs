@@ -1,8 +1,3 @@
-/**
- * Intro logic
- * Author: Mariana Azevedo
- * Since: 05/03/2020
- */
 
 let width = window.innerWidth;
 let height = window.innerHeight;
